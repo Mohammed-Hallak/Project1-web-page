@@ -389,7 +389,8 @@ header nav .form i:hover {
 }
 @media (max-width: 767px) {
   .design .text li {
-    width: 50%;
+    
+    font-size:12px;
     margin: auto;
   }
 }
