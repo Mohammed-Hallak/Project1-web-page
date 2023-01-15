@@ -271,6 +271,11 @@ header nav .form i:hover {
   bottom: 30px;
   display: flex;
 }
+@media (max-width: 767px) {
+  .landing .bullets {
+    display: none;
+  }
+}
 .landing .bullets li {
   width: 20px;
   height: 20px;
